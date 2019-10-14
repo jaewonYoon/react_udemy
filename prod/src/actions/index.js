@@ -39,11 +39,3 @@ export const fetchUser = id =>  async dispatch => {
 //     dispatch({type: 'FETCH_USER', payload: response.data})
 // });
 
-
- export const fetchUser = id =>  dispatch => _fetchUser(id,dispatch);
-
- export const fetchUser = function(id) {
-     return function(dispatch){
-         return _fetchUser(id,dispatch);
-     }
- }
