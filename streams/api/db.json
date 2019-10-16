@@ -1,4 +1,34 @@
 {
-    "streams":[]
-    
+  "streams": [
+    {
+      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
+      "a.dispatch.apply(a,arguments)}": "",
+      "id": 1
+    },
+    {
+      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
+      "a.dispatch.apply(a,arguments)}": "",
+      "id": 2
+    },
+    {
+      "title": "hello",
+      "description": "hellobody",
+      "id": 3
+    },
+    {
+      "title": "Other stream",
+      "description": "Here's some stream ",
+      "id": 4
+    },
+    {
+      "title": "he",
+      "description": "df",
+      "id": 5
+    },
+    {
+      "title": "he",
+      "description": "df",
+      "id": 6
+    }
+  ]
 }
