@@ -1,34 +1,30 @@
 {
   "streams": [
     {
-      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
-      "a.dispatch.apply(a,arguments)}": "",
-      "id": 1
-    },
-    {
-      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
-      "a.dispatch.apply(a,arguments)}": "",
-      "id": 2
-    },
-    {
       "title": "hello",
       "description": "hellobody",
-      "id": 3
+      "id": 1
     },
     {
       "title": "Other stream",
       "description": "Here's some stream ",
+      "id": 2
+    },
+    {
+      "title": "he",
+      "description": "df",
+      "id": 3
+    },
+    {
+      "title": "he",
+      "description": "df",
       "id": 4
     },
     {
-      "title": "he",
-      "description": "df",
+      "title": "I created This stream",
+      "description": "This was made by me ",
+      "userId": "102196613876837302329",
       "id": 5
-    },
-    {
-      "title": "he",
-      "description": "df",
-      "id": 6
     }
   ]
 }
